@@ -49,7 +49,7 @@ A full-stack Java web application for managing a library, built from scratch by 
 ## Author
 **Aman Kumar**  
 [GitHub](https://github.com/kumaramansah)  
-Email: your.email@example.com
+Email: amanmjh10@gmail.com
 
 ---
 This project is 100% original and built by Aman Kumar for learning, demonstration, and interview purposes. All code, design, and documentation are my own work. 
