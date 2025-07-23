@@ -1,0 +1,5 @@
+com\sevlet\lmsdb\AddBookServlet.class
+com\sevlet\lmsdb\DisplayBooksServlet.class
+com\sevlet\lmsdb\FindByIdServlet.class
+com\sevlet\lmsdb\LoginUserServlet.class
+com\sevlet\lmsdb\RemoveBookServlet.class

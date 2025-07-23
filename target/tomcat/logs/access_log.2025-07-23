@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:06 +0530] "POST /register-user HTTP/1.1" 404 977 http-bio-8080-exec-1 29
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:13 +0530] "GET / HTTP/1.1" 200 815 http-bio-8080-exec-3 446
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:15 +0530] "GET /signUp.jsp HTTP/1.1" 200 360 http-bio-8080-exec-4 32
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:19 +0530] "POST /register-user HTTP/1.1" 404 977 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:26 +0530] "POST /register-user HTTP/1.1" 404 977 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:30 +0530] "POST /register-user HTTP/1.1" 404 977 http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:31:39 +0530] "GET /login-user?user=aman&password=1111 HTTP/1.1" 200 - http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:32:01 +0530] "GET /signUp.jsp HTTP/1.1" 200 360 http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [23/Jul/2025:14:32:04 +0530] "POST /register-user HTTP/1.1" 404 977 http-bio-8080-exec-10 1
